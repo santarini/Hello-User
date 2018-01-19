@@ -1,0 +1,12 @@
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\bin\Debug\Hello User.exe.config
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\bin\Debug\Hello User.exe
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\bin\Debug\Hello User.pdb
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\bin\Debug\Hello User.xml
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\obj\Debug\Hello User.vbprojResolveAssemblyReference.cache
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\obj\Debug\Hello_User.Form1.resources
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\obj\Debug\Hello_User.Resources.resources
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\obj\Debug\Hello User.vbproj.GenerateResource.Cache
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\obj\Debug\Hello User.vbproj.CoreCompileInputs.cache
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\obj\Debug\Hello User.exe
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\obj\Debug\Hello User.xml
+C:\Users\santa\Documents\VBA Workspace\Hello User\Hello User\obj\Debug\Hello User.pdb
